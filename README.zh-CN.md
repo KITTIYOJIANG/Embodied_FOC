@@ -4,7 +4,6 @@
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus)](https://en.cppreference.com/w/)
 [![CMake](https://img.shields.io/badge/CMake-3.16%2B-blue)](https://cmake.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#许可证)
 
 ---
 
@@ -310,19 +309,9 @@ model_cache.swapBuffers();
 
 ---
 
-## 📝 许可证
+## 📝 许可证声明
 
-MIT 许可证 — 详见 `LICENSE` 文件。
-
-```
-版权所有 (c) 2025 具身智能研究团队
-
-特此授予任何获得本软件及相关文档文件副本的人员
-免费使用本软件的权利，包括但不限于使用、复制、修改、
-合并、发布、分发、再许可和/或销售本软件副本的权利，
-以及准许获得本软件者这样做的权利，但需满足以下条件：
-...
-```
+本项目不采用特定的开源许可证。如需使用本项目，请联系作者了解使用条款。
 
 ---
 

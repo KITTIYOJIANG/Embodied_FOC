@@ -4,7 +4,6 @@
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue?logo=cplusplus)](https://en.cppreference.com/w/)
 [![CMake](https://img.shields.io/badge/CMake-3.16%2B-blue)](https://cmake.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 
 ---
 
@@ -310,21 +309,9 @@ Contributions welcome! Please ensure:
 
 ---
 
-## 📝 License
+## 📝 License Notice
 
-MIT License — See `LICENSE` file for details.
-
-```
-Copyright (c) 2025 Embodied AI Research Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-...
-```
+This project does not have a specific open-source license. Please contact the author for usage terms.
 
 ---
 
